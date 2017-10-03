@@ -1,6 +1,6 @@
 # yavo
 
-Yet another [VictorOps](https://victorops.com/) victor ops client
+Yet another [VictorOps](https://victorops.com/) client
 
 ## Usage
 
